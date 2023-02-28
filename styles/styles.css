@@ -1,0 +1,73 @@
+h1{
+    color:darkred;
+    text-align: center;
+    background-color:gray;
+    margin-right: 35%;
+    margin-left: 35%;
+    border-style:outset;
+    font-size: 250%;
+}
+
+body{
+    background-color:aqua;
+    background-image: url(http://pa1.narvii.com/6723/10d924386566dd54ac279d24126b6671639bcb60_00.gif);
+    background-repeat: no-repeat;
+    background-position:75%;
+    background-size: 40%;
+    
+}   
+
+strong{
+    font-size: 200%;
+}
+
+li{
+    font-size: 150%;
+}
+
+button{
+    background-color:brown;
+    color: aqua;
+    margin-left: 13%;
+}
+ 
+.body2{
+    background-color:aqua;
+    background-image: url(https://i.pinimg.com/originals/6c/61/98/6c61986694d01afd2524d8c111e85b32.gif);
+    background-position: -16%;
+    background-repeat:repeat;
+}
+
+table{
+    border-color:cadetblue;
+    background-color:beige;
+    border-style:dashed;
+}
+
+caption{
+    font-size: 250%;
+    color:blueviolet;
+}
+.td5{
+    color: ;
+}
+
+.pregunta{
+    text-align: center;
+    color:darkorange;
+}
+
+.pregunta2{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.td{
+    font-weight: bold;
+    text-align: center;
+}
+
+.table tr:hover{
+    background-color:crimson;
+    color: white;
+}
